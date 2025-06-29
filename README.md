@@ -2,6 +2,9 @@
 
 Debutted in 2022, ships with many other plugins but now it has a stand alone page.
 
+**Download source code and binaries here**
+https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Edge_Smooth/releases/tag/edgesmoothing
+
 ![image](https://github.com/user-attachments/assets/f1671623-c4a7-4626-9765-41d2b6860b81)
 
 ![image](https://github.com/user-attachments/assets/4eda913a-2310-4ce8-8428-312a13db4f84)
